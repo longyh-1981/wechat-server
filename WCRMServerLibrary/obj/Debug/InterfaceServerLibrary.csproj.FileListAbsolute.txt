@@ -1,0 +1,5 @@
+F:\202003\Server\InterfaceServer\InterfaceServerLibrary\bin\Debug\InterfaceServerLibrary.dll
+F:\202003\Server\InterfaceServer\InterfaceServerLibrary\bin\Debug\InterfaceServerLibrary.pdb
+F:\202003\Server\InterfaceServer\InterfaceServerLibrary\obj\Debug\InterfaceServerLibrary.csprojResolveAssemblyReference.cache
+F:\202003\Server\InterfaceServer\InterfaceServerLibrary\obj\Debug\InterfaceServerLibrary.dll
+F:\202003\Server\InterfaceServer\InterfaceServerLibrary\obj\Debug\InterfaceServerLibrary.pdb

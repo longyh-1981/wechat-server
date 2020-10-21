@@ -1,0 +1,6 @@
+F:\202003\Server\InterfaceServer\WCRMServerLibrary\obj\Debug\WCRMServerLibrary.csprojResolveAssemblyReference.cache
+F:\202003\Server\InterfaceServer\WCRMServerLibrary\bin\Debug\WCRMServerLibrary.dll
+F:\202003\Server\InterfaceServer\WCRMServerLibrary\bin\Debug\WCRMServerLibrary.pdb
+F:\202003\Server\InterfaceServer\WCRMServerLibrary\bin\Debug\Newtonsoft.Json.dll
+F:\202003\Server\InterfaceServer\WCRMServerLibrary\obj\Debug\WCRMServerLibrary.dll
+F:\202003\Server\InterfaceServer\WCRMServerLibrary\obj\Debug\WCRMServerLibrary.pdb

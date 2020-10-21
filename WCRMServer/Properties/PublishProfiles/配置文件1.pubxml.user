@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/InterfaceServer.dll">
+      <publishTime>09/06/2020 17:57:26</publishTime>
+    </File>
+    <File Include="bin/InterfaceServerLibrary.dll">
+      <publishTime>09/06/2020 17:57:24</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>10/31/2017 18:19:06</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>01/16/2020 14:49:14</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/31/2017 18:19:07</publishTime>
+    </File>
+    <File Include="bin/WCRMServer.dll">
+      <publishTime>09/19/2020 20:15:32</publishTime>
+    </File>
+    <File Include="bin/WCRMServerLibrary.dll">
+      <publishTime>09/19/2020 20:15:31</publishTime>
+    </File>
+    <File Include="CRMWebService.asmx">
+      <publishTime>09/06/2020 18:51:42</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/06/2020 18:52:31</publishTime>
+    </File>
+    <File Include="WCRMInterface.ashx">
+      <publishTime>09/07/2020 10:27:15</publishTime>
+    </File>
+    <File Include="WCRMWebService.asmx">
+      <publishTime>09/07/2020 02:11:19</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/19/2020 20:15:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

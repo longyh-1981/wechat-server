@@ -1,0 +1,10 @@
+F:\202003\Server\InterfaceServer\WCRMServer\obj\Release\WCRMServer.csprojResolveAssemblyReference.cache
+F:\202003\Server\InterfaceServer\WCRMServer\bin\WCRMServer.dll
+F:\202003\Server\InterfaceServer\WCRMServer\bin\WCRMServer.pdb
+F:\202003\Server\InterfaceServer\WCRMServer\bin\WCRMServerLibrary.dll
+F:\202003\Server\InterfaceServer\WCRMServer\bin\WCRMServerLibrary.pdb
+F:\202003\Server\InterfaceServer\WCRMServer\obj\Release\WCRMServer.dll
+F:\202003\Server\InterfaceServer\WCRMServer\obj\Release\WCRMServer.pdb
+F:\202003\Server\InterfaceServer\WCRMServer\bin\log4net.dll
+F:\202003\Server\InterfaceServer\WCRMServer\bin\MySql.Data.dll
+F:\202003\Server\InterfaceServer\WCRMServer\bin\Newtonsoft.Json.dll
